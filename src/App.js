@@ -7,6 +7,7 @@ export default function App() {
       <h2>separating the components</h2>
       <h3>creting the popcorn app with separation of components</h3>
       <h3>Writing the review compoentnsa</h3>
+      <h3>Day 4 without doing anything</h3>
     </div>
   );
 }
