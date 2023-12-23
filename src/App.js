@@ -9,6 +9,7 @@ export default function App() {
       <h3>Writing the review compoentnsa</h3>
       <h3>Day 4 without doing anything</h3>
       <h3>Day 5 without doing anything wauuu freee</h3>
+      <h3>Day 6 without doing anything wauuu freee</h3>
     </div>
   );
 }
