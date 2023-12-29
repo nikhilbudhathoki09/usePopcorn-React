@@ -14,6 +14,7 @@ export default function App() {
       <h3>DAy 8 of not doing anything wauuu freee</h3>
       <h3>DAy 9 of not doing anything wauuu freee</h3>
       <h3>DAy 9 of not doing anything wauuu freee</h3>
+      <h3>DAy 9 of not doing anything wauuu freee</h3>
 
       <h3>HIi wassup</h3>
     </div>
